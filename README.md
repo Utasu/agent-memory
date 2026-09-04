@@ -1,5 +1,7 @@
 # Agent Memory
 
+[![tests](https://github.com/Utasu/agent-memory/actions/workflows/tests.yml/badge.svg)](https://github.com/Utasu/agent-memory/actions/workflows/tests.yml)
+
 A dependency-free shared memory for several agents or processes working on one project.
 Source files stay plain Markdown a human can read and edit; `CURRENT.md` and `INDEX.md`
 are small generated read paths so an agent loads one short file instead of everything.
