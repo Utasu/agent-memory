@@ -1,0 +1,8 @@
+.state/
+*.sqlite3
+*.db
+*.env
+__pycache__/
+.pytest_cache/
+# a live memory directory belongs to its operator, not the repo
+memory/

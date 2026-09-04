@@ -1,0 +1,10 @@
+[project]
+name = "agent-memory"
+version = "1.0.0"
+description = "Shared Markdown memory for multiple agents, with locked atomic writes and secret refusal"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
